@@ -152,5 +152,20 @@
       "stat4Value": "",
       "stat4Label": ""
     }
+  },
+  {
+    "id": "d7k20i52",
+    "type": "stats",
+    "order": 11,
+    "data": {
+      "stat1Value": "",
+      "stat1Label": "",
+      "stat2Value": "",
+      "stat2Label": "",
+      "stat3Value": "",
+      "stat3Label": "",
+      "stat4Value": "",
+      "stat4Label": ""
+    }
   }
 ]
