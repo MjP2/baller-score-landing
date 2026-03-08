@@ -122,5 +122,35 @@
       "appStoreUrl": "#",
       "playStoreUrl": "#"
     }
+  },
+  {
+    "id": "znpgzqv1",
+    "type": "feature-block-side",
+    "order": 9,
+    "data": {
+      "title": "",
+      "subtitle": "",
+      "body": "",
+      "image": "",
+      "imageAlt": "",
+      "reversed": false,
+      "badge": "",
+      "bullets": ""
+    }
+  },
+  {
+    "id": "2p7ipt31",
+    "type": "stats",
+    "order": 10,
+    "data": {
+      "stat1Value": "",
+      "stat1Label": "",
+      "stat2Value": "",
+      "stat2Label": "",
+      "stat3Value": "",
+      "stat3Label": "",
+      "stat4Value": "",
+      "stat4Label": ""
+    }
   }
 ]
